@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shailesh Salve 👋
 
-<!--
-**shaileshsalve-7/shaileshsalve-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer building practical, privacy-conscious software across Android and the web.
 
-Here are some ideas to get you started:
+## What I’m building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[CampusPulse](https://github.com/shaileshsalve-7/campuspulse)** — a campus communication and issue-reporting platform.
+- **[Bat](https://github.com/shaileshsalve-7/bat-android-personal-assistant)** — a personal Android event assistant built around confirmation-first calendar actions and privacy-aware notification handling.
+
+## Focus areas
+
+- Android development and on-device user experiences
+- Full-stack TypeScript applications
+- Privacy-first product design
+- Useful AI-assisted developer tooling
+
+## Currently exploring
+
+Building dependable developer tools and polished applications that solve everyday coordination problems.
+
+---
+
+_This profile showcases work built with a mix of independent development and AI-assisted tooling, with project details documented in each repository._
