@@ -1,23 +1,30 @@
-# Hi, I'm Shailesh Salve 👋
+# Hi, I'm Shailesh Salve
 
-I’m a developer building practical, privacy-conscious software across Android and the web.
+2nd-year Computer Engineering student at Dhole Patil College of Engineering, Pune. I build small, practical web and Android apps, and I'm looking for an internship.
 
-## What I’m building
+## What I'm building
 
-- **[CampusPulse](https://github.com/shaileshsalve-7/campuspulse)** — a campus communication and issue-reporting platform.
-- **[Bat](https://github.com/shaileshsalve-7/bat-android-personal-assistant)** — a personal Android event assistant built around confirmation-first calendar actions and privacy-aware notification handling.
+- Learning DSA in Java, one problem at a time
+- Getting better at backend work: APIs, auth, and databases
+- Exploring Linux and the basics of AI/ML
 
-## Focus areas
+## Tech stack
 
-- Android development and on-device user experiences
-- Full-stack TypeScript applications
-- Privacy-first product design
-- Useful AI-assisted developer tooling
+**Comfortable with:** Java, C, React, Tailwind CSS, Node.js, Express, SQL, PostgreSQL, MongoDB, Git
 
-## Currently exploring
+**Learning:** DSA, Spring Boot, TypeScript, Python, Linux, AI/ML basics
 
-Building dependable developer tools and polished applications that solve everyday coordination problems.
+## Featured projects
 
----
+| Project | What it is |
+| --- | --- |
+| [DropLink](https://github.com/shaileshsalve-7/droplink) | Send files between phone and laptop using a temporary room, QR code or room code. React, Vite, Spring Boot, WebSockets. [Live](https://droplink-shailesh.netlify.app/) |
+| [CampusPulse](https://github.com/shaileshsalve-7/campuspulse) | Campus platform for issue reporting, events, clubs and announcements. React, Tailwind, Node, Express, MongoDB, JWT. [Live](https://campuspulse-shaileshsalve.onrender.com) |
+| [SolveSphere](https://github.com/shaileshsalve-7/solvesphere-fullstack) | 36-hour hackathon project by team InnovexaX (led by Shubham Kadam) for crowdsourcing solutions to social problems. I worked on it as a team member; some features are still unfinished. React, TypeScript, Vite. |
+| [Bat](https://github.com/shaileshsalve-7/bat-android-personal-assistant) | Android assistant that spots event dates in WhatsApp group notifications and suggests adding them to the calendar, with your confirmation each time. |
 
-_This profile showcases work built with a mix of independent development and AI-assisted tooling, with project details documented in each repository._
+## Contact
+
+- Portfolio: [shaileshsalve.netlify.app](https://shaileshsalve.netlify.app/)
+- LinkedIn: [linkedin.com/in/shailesh-salve](https://www.linkedin.com/in/shailesh-salve)
+- Email: shaileshsalve823@gmail.com
