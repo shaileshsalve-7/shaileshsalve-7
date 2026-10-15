@@ -6,7 +6,6 @@
 
 - Practising DSA in Java
 - Building full-stack projects with React, Node.js and Spring Boot
-- Looking for my first internship
 
 ## Tech stack
 
