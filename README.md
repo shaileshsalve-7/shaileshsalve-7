@@ -2,10 +2,11 @@
 
 2nd-year Computer Engineering student at Dhole Patil College of Engineering, Pune. I build small, practical web and Android apps, and I'm looking for an internship.
 
-## What I'm building
+## What I'm Doing
 
-- Learning DSA in Java, one problem at a time
-- Getting better at backend work: APIs, auth, and databases
+- Practising DSA in Java
+- Building full-stack projects with React, Node.js and Spring Boot
+- Looking for my first internship
 
 ## Tech stack
 
