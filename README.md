@@ -19,7 +19,7 @@
 | --- | --- | --- |
 | [DropLink](https://github.com/shaileshsalve-7/droplink) | Send files between phone and laptop using a temporary room, QR code or room code. React, Vite, Spring Boot, WebSockets. | ✅ Working · [Live](https://droplink-shailesh.netlify.app/) |
 | [CampusPulse](https://github.com/shaileshsalve-7/campuspulse) | Campus platform for issue reporting, events, clubs and announcements. React, Tailwind, Node, Express, MongoDB, JWT. | ✅ Working · [Live](https://campuspulse-shaileshsalve.onrender.com) |
-| [SolveSphere](https://github.com/shaileshsalve-7/solvesphere-fullstack) | 36-hour hackathon project by team InnovexaX (led by Shubham Kadam) for crowdsourcing solutions to social problems. I worked on it as a team member. React, TypeScript, Vite. | ✅ Working · [Live](https://solvesphere-dpes.onrender.com) |
+| [SolveSphere](https://github.com/shaileshsalve-7/solvesphere-fullstack) | 36-hour hackathon team project for crowdsourcing solutions to social problems. React, TypeScript, Vite. | ✅ Working · [Live](https://solvesphere-dpes.onrender.com) |
 | [Bat](https://github.com/shaileshsalve-7/bat-android-personal-assistant) | Android assistant that spots event dates in WhatsApp group notifications and suggests adding them to the calendar, with your confirmation each time. Kotlin. | ✅ Working |
 
 ## Contact
