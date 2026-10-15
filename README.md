@@ -6,13 +6,12 @@
 
 - Learning DSA in Java, one problem at a time
 - Getting better at backend work: APIs, auth, and databases
-- Exploring Linux and the basics of AI/ML
 
 ## Tech stack
 
 **Comfortable with:** Java, C, React, Tailwind CSS, Node.js, Express, SQL, PostgreSQL, MongoDB, Git
 
-**Learning:** DSA, Spring Boot, TypeScript, Python, Linux, AI/ML basics
+**Learning:** DSA, Spring Boot, TypeScript, Python
 
 ## Featured projects
 
